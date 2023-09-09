@@ -1,0 +1,25 @@
+img[src="/steaminputglyphs/shared_color_button_a.svg"] {
+    content: url("/steaminputglyphs/shared_button_a.svg");
+}
+img[src="/steaminputglyphs/shared_color_button_b.svg"] {
+    content: url("/steaminputglyphs/shared_button_b.svg");
+}
+img[src="/steaminputglyphs/shared_color_button_x.svg"] {
+    content: url("/steaminputglyphs/shared_button_x.svg");
+}
+img[src="/steaminputglyphs/shared_color_button_y.svg"] {
+    content: url("/steaminputglyphs/shared_button_y.svg");
+}
+img[src="/steaminputglyphs/shared_color_outlined_button_a.svg"] {
+    content: url("/steaminputglyphs/shared_outline_button_a.svg");
+}
+img[src="/steaminputglyphs/shared_color_outlined_button_b.svg"] {
+    content: url("/steaminputglyphs/shared_outline_button_b.svg");
+}
+img[src="/steaminputglyphs/shared_color_outlined_button_x.svg"] {
+    content: url("/steaminputglyphs/shared_outline_button_x.svg");
+}
+img[src="/steaminputglyphs/shared_color_outlined_button_y.svg"] {
+    content: url("/steaminputglyphs/shared_outlined_button_y.svg");
+}
+

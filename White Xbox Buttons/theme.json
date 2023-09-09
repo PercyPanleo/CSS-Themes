@@ -1,0 +1,39 @@
+{
+  "name": "White Xbox Buttons",
+  "author": "Akaza Renn",
+  "target": "Other",
+  "version": "v1.1",
+  "manifest_version": 5,
+  "patches": {
+    "Replace brand icons by Steam": {
+      "type": "checkbox",
+      "default": "No",
+      "values": {
+        "Yes": {
+          "sd_steam_button.css": ["SP", "QuickAccess"]
+        },
+        "No": {}
+      }
+    },
+    "Apply to Xbox / Nintendo controllers": {
+      "type": "checkbox",
+      "default": "No",
+      "values": {
+        "Yes": {
+          "abxy.css": ["SP", "QuickAccess"]
+        },
+        "No": {}
+      }
+    },
+    "Apply to PS controllers": {
+      "type": "checkbox",
+      "default": "No",
+      "values": {
+        "Yes": {
+          "ps.css": ["SP", "QuickAccess"]
+        },
+        "No": {}
+      }
+    }
+  }
+}

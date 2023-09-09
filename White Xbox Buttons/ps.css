@@ -1,0 +1,33 @@
+img[src="/steaminputglyphs/ps_color_button_square.svg"] {
+    content: url("/steaminputglyphs/ps_button_square.svg");
+    transform: scale(0.88);
+}
+img[src="/steaminputglyphs/ps_color_button_triangle.svg"] {
+    content: url("/steaminputglyphs/ps_button_triangle.svg");
+    transform: scale(0.88);
+}
+img[src="/steaminputglyphs/ps_color_button_circle.svg"] {
+    content: url("/steaminputglyphs/ps_button_circle.svg");
+    transform: scale(0.88);
+}
+img[src="/steaminputglyphs/ps_color_button_x.svg"] {
+    content: url("/steaminputglyphs/ps_button_x.svg");
+    transform: scale(0.88);
+}
+img[src="/steaminputglyphs/ps_color_outlined_button_square.svg"] {
+    content: url("/steaminputglyphs/ps_outline_button_square.svg");
+    transform: scale(0.88);
+}
+img[src="/steaminputglyphs/ps_color_outlined_button_triangle.svg"] {
+    content: url("/steaminputglyphs/ps_outline_button_triangle.svg");
+    transform: scale(0.88);
+}
+img[src="/steaminputglyphs/ps_color_outlined_button_circle.svg"] {
+    content: url("/steaminputglyphs/ps_outline_button_circle.svg");
+    transform: scale(0.88);
+}
+img[src="/steaminputglyphs/ps_color_outlined_button_x.svg"] {
+    content: url("/steaminputglyphs/ps_outlined_button_x.svg");
+    transform: scale(0.88);
+}
+
