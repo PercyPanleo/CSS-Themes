@@ -28,6 +28,7 @@
         "XBOX": {
           "xbox_button_logo.css": ["SP", "QuickAccess"]
         }
+      }
     },
     "Apply to Xbox / Nintendo style controllers": {
       "type": "checkbox",
