@@ -5,17 +5,31 @@
   "version": "v1.1",
   "manifest_version": 5,
   "patches": {
-    "Replace brand icons by Steam": {
-      "type": "checkbox",
-      "default": "No",
+    "Brand icon": {
+      "type": "dropdown",
+      "default": "Original",
       "values": {
-        "Yes": {
+        "Orignal": {},
+        "Steam Deck": {
           "sd_steam_button.css": ["SP", "QuickAccess"]
         },
-        "No": {}
-      }
+        "Steam Controller": {
+          "sc_steam_button.css": ["SP", "QuickAccess"]
+        },
+        "Steam Controller with Deck Menu Button": {
+          "sd_button_menu.css": ["SP", "QuickAccess"]
+        },
+        "Nintendo": {
+          "switchpro_button_home.css": ["SP", "QuickAccess"]
+        }
+        "PlayStation": {
+          "ps4_button_logo.css": ["SP", "QuickAccess"]
+        }
+        "XBOX": {
+          "xbox_button_logo.css": ["SP", "QuickAccess"]
+        }
     },
-    "Apply to Xbox / Nintendo controllers": {
+    "Apply to Xbox / Nintendo style controllers": {
       "type": "checkbox",
       "default": "No",
       "values": {
