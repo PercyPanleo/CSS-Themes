@@ -9,7 +9,7 @@
       "type": "dropdown",
       "default": "Original",
       "values": {
-        "Orignal": {},
+        "Original": {},
         "Steam Deck": {
           "sd_steam_button.css": ["SP", "QuickAccess"]
         },
