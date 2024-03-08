@@ -11,5 +11,4 @@ img[src="/steaminputglyphs/ps5_button_options.svg"],
 img[src="/steaminputglyphs/switchpro_button_plus.svg"],
 img[src="/steaminputglyphs/sc_button_r_arrow.svg"] {
     content: url("/steaminputglyphs/switchpro_button_plus.svg");
-    transform: scale(1.125);
 }
