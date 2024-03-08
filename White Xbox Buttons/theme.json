@@ -21,10 +21,10 @@
         },
         "Nintendo": {
           "switchpro_button_home.css": ["SP", "QuickAccess"]
-        }
+        },
         "PlayStation": {
           "ps4_button_logo.css": ["SP", "QuickAccess"]
-        }
+        },
         "XBOX": {
           "xbox_button_logo.css": ["SP", "QuickAccess"]
         }
